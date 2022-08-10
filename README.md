@@ -1,15 +1,34 @@
-# MHF Projekt
+# H1
+## H2
+### H3
+#### H4
+##### H5
+###### H6
+Alt-H1
+======
+Alt-H2
+------
+#
 
-## MHF Projekt
+*This text is italic*   
+_This text is also italic_
 
-### MHF Projekt
+**This text is bold**   
+__This text is also bold__
 
-#### MHF Projekt
+~~This text is strikethrough~~     
 
-##### MHF Projekt
+|Tables  |Are      |Cool      |  
+|--------|:-------:|---------:|
+|col 1   |col 2    |col 3     |
+|col 1   |col 2    |col 3     |
+|col 1   |col 2    |col 3     |
+|col 1   |col 2    |col 3     |
 
-###### MHF Projekt
+Markdown|Less|Pretty  
+---|---|--- 
+*Still*|`renders`|**nicely**
+1|2|3
 
-_Italic_
+>Quote break
 
-_Underscore_
