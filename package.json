@@ -1,0 +1,24 @@
+{
+  "name": "mhf-projekt",
+  "version": "1.0.0",
+  "description": "Alt-H1 ====== Alt-H2 ------ #",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Minirz/mhf-projekt.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Minirz/mhf-projekt/issues"
+  },
+  "homepage": "https://github.com/Minirz/mhf-projekt#readme",
+  "devDependencies": {
+    "eslint": "^8.21.0",
+    "eslint-plugin-react": "^7.30.1"
+  }
+}

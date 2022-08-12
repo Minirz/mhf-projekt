@@ -1,3 +1,6 @@
+let victor = 1;
+console.log(victor);
+
 fetch("https://api.github.com/users/minirz")
   .then((reponse) => reponse.json())
   .then((profil) => {
@@ -22,13 +25,3 @@ fetch("https://api.github.com/users/minirz")
 
     console.log("TEST", imageContainer.src, imageContainer.id);
   });
-
-function open() {
-  console.log("open");
-}
-open();
-
-const openMe = () => {
-  console.log("Open me");
-};
-openMe();
